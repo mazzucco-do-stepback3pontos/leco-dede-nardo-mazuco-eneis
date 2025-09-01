@@ -8,6 +8,7 @@ wght@0,6..12,200..1000;1,6..12,200..1000&display=swap’);
     --primary-color: #DDDDDD;
     --secundary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
+    --third-color: #A020F0;
     }
 
 
@@ -77,7 +78,7 @@ wght@0,6..12,200..1000;1,6..12,200..1000&display=swap’);
                            
                             span{
                                 font-weight: bold;
-                                color: var(--secundary-color);
+                                color: var(--third-color);
                             }
         
         
